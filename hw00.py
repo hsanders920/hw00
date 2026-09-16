@@ -6,6 +6,8 @@
 # Define main function 
 def main():
 	print("Hello World!"); # print a message
+	print(":p");
+	print("<.__.>");
 
 
 # Run main if this script is being run 
